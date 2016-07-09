@@ -1,0 +1,12 @@
+{
+  "name": "mypackagetest2",
+  "version": "1.2.1",
+  "authors": [
+    "AlexeiVainshtein <alexeiv@jfrog.com>"
+  ],
+  "description": "This is my test2 tewt package for this",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT"
+}
